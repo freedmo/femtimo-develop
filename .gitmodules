@@ -1,0 +1,3 @@
+[submodule "vendor/freedmo"]
+	path = vendor/freedmo
+	url = https://github.com/freedmo/femtimo.git
