@@ -7,3 +7,6 @@
 *.iml
 out
 gen
+
+/vendor/
+index.php___jb_old___

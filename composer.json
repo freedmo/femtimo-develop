@@ -1,0 +1,13 @@
+{
+  "name": "freedmo/femtimo-develop",
+  "autoload": {
+    "psr-4": {
+      "femtimo\\engine\\": "vendor/freedmo/Femtimo"
+    }
+  },
+  "require": {
+    "symfony/http-foundation": "^4.0",
+    "symfony/http-kernel": "^4.0",
+    "symfony/dependency-injection": "^4.0"
+  }
+}
